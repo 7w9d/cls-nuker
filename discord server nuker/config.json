@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "prefix": ".",
+    "config": {
+        "spam_message": "testing",
+        "dm_message": "testing",
+        "channels_names": "testing",
+        "roles_names": "testing",
+        "rich_presence": "testing"
+    }
+}
